@@ -1,0 +1,30 @@
+{"wordlist":[
+
+ {
+   "word":"ubuntu",
+   "clue":"an operating system"
+ },
+
+ {
+   "word":"python",
+   "clue":"a programming language"
+ },
+ {
+   "word":"pascal",
+   "clue":"a programming language"
+ },
+ {
+   "word":"algorithm",
+   "clue":"a sequence of instructions"
+ },
+ {
+   "word":"prolog",
+   "clue":"a programming language"
+ },
+ {
+   "word":"database",
+   "clue":"collecton of data"
+ }
+
+]
+}
